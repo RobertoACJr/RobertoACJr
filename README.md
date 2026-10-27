@@ -8,7 +8,7 @@
 
 Building scalable front-end applications, improving performance, and modernizing legacy systems.
 
-[LinkedIn](https://www.linkedin.com/in/roberto-jr/) · [GitHub](https://github.com/RobertoACJr)
+[LinkedIn](https://www.linkedin.com/in/roberto-junior-7a4a3b173/) · [GitHub](https://github.com/RobertoACJr)
 
 </div>
 
